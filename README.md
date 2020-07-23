@@ -19,8 +19,9 @@ For example : git checkout -b Tarun/Resources
 
 4. **Do your code changes, add and then finally commit the changes!**
 
-``` git add .
-    git commit -m "Frontend Resource Cards added"    
+``` 
+git add .
+git commit -m "Frontend Resource Cards added"    
 ```
 
 5. **Push your changes to your branch**
