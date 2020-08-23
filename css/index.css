@@ -95,10 +95,10 @@ body {
       scroll-behavior: unset;
   }
 
-  .wrap{
-      width:80%;
-      margin: 10px auto;
-  }
+  
+ .crsl_img{
+   width:90vw;
+ }
   .hide-on-small {
       display: none;
   }
