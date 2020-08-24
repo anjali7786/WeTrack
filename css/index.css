@@ -100,9 +100,8 @@ nav a {
   text-align: center;
   text-decoration: none;
   align-items: center;
-  padding: 10px 0;
+  padding: 8px 0;
   margin-top: 15px;
-  margin-left: 3px;
   color: rgb(141, 126, 126);
 }
 nav a#openup {
@@ -167,7 +166,7 @@ nav.fill ul li a:hover:after {
 
 /*media queries */
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 685px) {
   
   *{
       overflow-x: hidden;
