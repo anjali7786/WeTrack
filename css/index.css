@@ -76,14 +76,23 @@ scroll-behavior: smooth;
 }
 /* Navigation */
 .pull-left{
-  margin-top: 0px;
+  margin:0;
+  padding:1px 0px 6px 30px;
+}
+.cf{
+  padding-top:5px;
+}
+.nav-link{
+    font-size:28px;
+    color:white;
 }
 nav {
-  height: 82px;
+  height: 95px;
   width: 100%;
   background-color: rgb(30, 40, 51);
   color: #eee;
   position: fixed;
+  padding-top:0;
 }
 nav ul {
   padding: 0;
@@ -244,6 +253,7 @@ nav.fill ul li a:hover:after {
     /* background-color: #333; */
     width: 100%;
     position: relative;
+    padding-top:0;
   }
 }
 .cf:before, .cf:after {
