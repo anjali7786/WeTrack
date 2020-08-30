@@ -176,7 +176,7 @@ nav.fill ul li a:hover:after {
 
 /*media queries */
 
-@media screen and (max-width: 685px) {
+@media screen and (max-width: 780px) {
   
   *{
       overflow-x: hidden;
